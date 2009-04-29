@@ -1,0 +1,23 @@
+= basic.rb rails template
+
+For each rails project, I always start with the same common tasks
+
+Here they are bundled in a rails template
+
+- setting up a git repos
+- creating the .gitignore file
+- make some directories 'visible' to the git commit
+- setting up the database.yml file for development
+- installing the haml plugin
+
+== How to use it?
+
+As simple as running this command
+
+rails -m http://github.com/denisj/basic_template.git YOUR_PROJECT_NAME
+
+== Credits
+
+Author: {Denis Jacquemin}[http://github.com/denisj]
+
+Copyright (c) 2009 Denis Jacquemin, released under the MIT license
