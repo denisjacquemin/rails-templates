@@ -14,7 +14,13 @@ Here they are bundled in a rails template
 
 As simple as running this command
 
-rails -m http://github.com/denisj/basic_template.git YOUR_PROJECT_NAME
+rails -m http://github.com/denisj/basic_template/raw/master/basic.rb YOUR_PROJECT_NAME
+
+== Prerequisites
+
+- Set up git on your machine
+- Have a running connection to internet (for haml plugin)
+- Have a fresh belgian beer next to you o_O
 
 == Credits
 
