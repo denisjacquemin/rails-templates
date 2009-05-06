@@ -39,5 +39,9 @@ plugin "haml", :git => "git://github.com/nex3/haml.git"
 git :add => "."
 git :commit => "-m 'haml plugin added'"
 
+plugin "google_ajax_libraries_api", :git => "git://github.com/rpheath/google_ajax_libraries_api.git"
+git :add => "."
+git :commit => "-m 'google_ajax_libraries_api plugin added'"
+
 # Success!
 puts "SUCCESS!"

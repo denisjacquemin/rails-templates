@@ -8,7 +8,8 @@ Here they are bundled in a rails template
 - creating the .gitignore file
 - make some directories 'visible' to the git commit
 - setting up the database.yml file for development
-- installing the haml plugin
+- installing the {haml}[http://github.com/nex3/haml] plugin
+- installing the {google_ajax_libraries_api plugin}[http://github.com/rpheath/google_ajax_libraries_api/] plugin
 
 == How to use it?
 
