@@ -10,6 +10,7 @@ Here they are bundled in a rails template
 - setting up the database.yml file for development
 - installing the {haml}[http://github.com/nex3/haml] plugin
 - installing the {google_ajax_libraries_api plugin}[http://github.com/rpheath/google_ajax_libraries_api/] plugin
+- installing the {form_helpers}[http://github.com/denisjacquemin/form-helpers] plugin
 
 == How to use it?
 
