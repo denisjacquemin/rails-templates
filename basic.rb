@@ -43,5 +43,9 @@ plugin "google_ajax_libraries_api", :git => "git://github.com/rpheath/google_aja
 git :add => "."
 git :commit => "-m 'google_ajax_libraries_api plugin added'"
 
+plugin "form_helpers", :git => "git://github.com/denisjacquemin/form-helpers.git"
+git :add => "."
+git :commit => "-m 'denisjacquemin/form-helpers.git plugin added'"
+
 # Success!
 puts "SUCCESS!"
