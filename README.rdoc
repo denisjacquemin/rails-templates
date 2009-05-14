@@ -26,6 +26,6 @@ rails -m basic.rb your_project_name
 
 == Credits
 
-Author: {Denis Jacquemin}[http://github.com/denisj]
+Author: {Denis Jacquemin}[http://github.com/denisjacquemin]
 
 Copyright (c) 2009 Denis Jacquemin, released under the MIT license
